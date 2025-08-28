@@ -1,4 +1,4 @@
-# Telegram Gifts Buyer
+# Abuyer
 
 <img src="https://github.com/user-attachments/assets/40f64ac9-ff84-4b31-85fd-b6ab01116bdb" alt="Program Preview" width="100%" />
 
@@ -20,8 +20,8 @@ management.
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/vityooook/Auto-Gift-Buyer-Telegram.git
-cd Auto-Gift-Buyer-Telegram
+git clone https://github.com/ExploitNet/Abuyer.git
+cd Abuyer
 pip install -r requirements.txt
 ```
 
@@ -138,7 +138,7 @@ Example:
 ---
 
 <div align="center">
-    <h4>Dev <a href="https://t.me/vityooook">vityooook</a></h4>
+    <h4>Dev <a href="https://t.me/ChExploitNet">ExploiNet</a></h4>
 </div>
 
 
